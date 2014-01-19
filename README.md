@@ -19,4 +19,5 @@ Lecture schedule: https://docs.google.com/spreadsheet/ccc?key=0AjenlMpyDk95dFY0d
 - Peter Fleischut MD
 - Zach Grinspan MD 
 - Keith Hentel MD
+- James Min MD
 - Ashish Raj PhD
