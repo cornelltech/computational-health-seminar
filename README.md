@@ -16,7 +16,7 @@ Lecture schedule: https://docs.google.com/spreadsheet/ccc?key=0AjenlMpyDk95dFY0d
 
 ### Confirmed speakers:
 
-Peter Fleischut MD
-Zach Grinspan MD 
-Keith Hentel MD
-Ashish Raj PhD
+- Peter Fleischut MD
+- Zach Grinspan MD 
+- Keith Hentel MD
+- Ashish Raj PhD
