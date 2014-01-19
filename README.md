@@ -14,4 +14,9 @@ Wednesday 1:15-2:15. Room is TBD
 ### Schedule of lectures:
 Lecture schedule: https://docs.google.com/spreadsheet/ccc?key=0AjenlMpyDk95dFY0dzNuUEhSSUFxOHZ4cTBRSHdnV3c#gid=0
 
+### Confirmed speakers:
 
+Peter Fleischut MD
+Zach Grinspan MD 
+Keith Hentel MD
+Ashish Raj PhD
