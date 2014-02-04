@@ -2,10 +2,13 @@ CS7594: Seminar on Computational Issues in Health and Medicine
 ============================
 
 ### Course description: 
-This is a 1 credit S/U seminar taught at Cornell NYC Tech and broadcast to Ithaca. The lectures will typically be given by physicians or researchers at Weill Cornell Medical College.
+An overview of computational issues that arise in the clinical practice of medicine. Topics include the role of IT in clinical practice; medical imaging problems in CT and MR; data mining; clinical decision support; workflow optimization; electronic medical records and health care IT standards. Lectures are given primarily by attending physicians from the Department of Radiology at Weill Cornell Medical College. Open to students at all levels. 
+
 
 ### Logistics
-Wednesday 1:15-2:15. Room in Ithaca is Gates 114, room in NYC is TBD. There is no class on 1/22/14, the first lecture will be 1/29/14.
+This is a 1 credit S/U seminar taught at Cornell NYC Tech and broadcast to Ithaca. The lectures will typically be given by physicians or researchers at Weill Cornell Medical College.
+
+Wednesday 1:15-2:15. Room in Ithaca is Gates 114, room in NYC is TBD. The first lecture will be 2/12/14.
 
 ### Staff
 * Professor: Ramin Zabih, rdz@cs.cornell.edu (Cornell NYC Tech)
