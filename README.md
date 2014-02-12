@@ -24,3 +24,4 @@ Lecture schedule: https://docs.google.com/spreadsheet/ccc?key=0AjenlMpyDk95dFY0d
 - Keith Hentel MD
 - James Min MD
 - Ashish Raj PhD
+- George Shih MD
