@@ -8,7 +8,7 @@ An overview of computational issues that arise in the clinical practice of medic
 ### Logistics
 This is a 1 credit S/U seminar taught at Cornell NYC Tech and broadcast to Ithaca. The lectures will typically be given by physicians or researchers at Weill Cornell Medical College.
 
-Wednesday 1:15-2:15. Room in Ithaca is Gates 114, room in NYC is TBD. The first lecture will be 2/12/14.
+Wednesday 1:15-2:15. Room in Ithaca is Gates 114, room in NYC is Big Red. The first lecture will be 2/12/14.
 
 ### Staff
 * Professor: Ramin Zabih, rdz@cs.cornell.edu (Cornell NYC Tech)
