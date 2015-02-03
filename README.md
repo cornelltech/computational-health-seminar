@@ -12,7 +12,7 @@ This is a not-for-credit seminar taught at Cornell Tech. The lectures will typic
 * Professor: Ramin Zabih, rdz@cs.cornell.edu (Cornell NYC Tech)
 
 ### Schedule of lectures for Spring 2015:
-Lectures: 
+ 
 * February 9
 * February 23 (probably no lecture since Professor Zabih is away)
 * March 9
