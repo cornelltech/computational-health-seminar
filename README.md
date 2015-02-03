@@ -6,22 +6,18 @@ An overview of computational issues that arise in the clinical practice of medic
 
 
 ### Logistics
-This is a 1 credit S/U seminar taught at Cornell NYC Tech and broadcast to Ithaca. The lectures will typically be given by physicians or researchers at Weill Cornell Medical College.
-
-Wednesday 1:15-2:15. Room in Ithaca is Gates 114, room in NYC is Big Red. The first lecture will be 2/12/14.
+This is a not-for-credit seminar taught at Cornell Tech. The lectures will typically be given by physicians or researchers at Weill Cornell Medical College. It meets every other Monday from 5:30 to 6:30 in FozziePooh.
 
 ### Staff
 * Professor: Ramin Zabih, rdz@cs.cornell.edu (Cornell NYC Tech)
-* Professor: Tanzeem Choudhury, tanzeem.choudhury@cornell.edu (Cornell Ithaca)
 
-### Schedule of lectures:
-Lecture schedule: https://docs.google.com/spreadsheet/ccc?key=0AjenlMpyDk95dFY0dzNuUEhSSUFxOHZ4cTBRSHdnV3c#gid=0
+### Schedule of lectures for Spring 2015:
+Lectures: 
+* February 9
+* February 23 (probably no lecture since Professor Zabih is away)
+* March 9
+* March 23
+* April 13
+* April 27 (probably no lecture since Professor Zabih is away)
+* May 4
 
-### Confirmed speakers:
-
-- Peter Fleischut MD
-- Zach Grinspan MD 
-- Keith Hentel MD
-- James Min MD
-- Ashish Raj PhD
-- George Shih MD
