@@ -13,7 +13,7 @@ This is a not-for-credit seminar taught at Cornell Tech. The lectures will typic
 
 ### Schedule of lectures for Spring 2015:
  
-* February 9
+* February 9: James K. Min MD
 * February 23 (probably no lecture since Professor Zabih is away)
 * March 9
 * March 23
